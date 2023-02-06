@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Gilad Turok!
 
-![image]({[BadgeURLHere](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)})
+![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
 
 Academic interests: machine learning, probabilistic programming, computational biology.
 
