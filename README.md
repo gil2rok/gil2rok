@@ -11,4 +11,5 @@ Hobbies: amateur powerlifting, philosophy, and crashing weddings.
 
 
 🎓 Columbia University, Applied Math Major
+
 🌎 New York, NY
