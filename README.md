@@ -10,6 +10,6 @@ Academic interests: machine learning, probabilistic programming, computational b
 Hobbies: amateur powerlifting, philosophy, and crashing weddings.
 
 
-🎓 Columbia University, Applied Math Major
+🎓 Columbia University, Applied Math
 
 🌎 New York, NY
