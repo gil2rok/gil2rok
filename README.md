@@ -7,7 +7,7 @@
 
 Academic interests: machine learning, probabilistic programming, computational biology.
 
-Hobbies: amateur powerlifting, philosophy, and crashing weddings.
+Hobbies: resistance training, philosophy, and crashing weddings.
 
 
 🎓 Columbia University, Applied Math
