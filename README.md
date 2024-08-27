@@ -5,10 +5,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-Academic interests: machine learning, probabilistic programming, computational biology.
-
-Hobbies: resistance training, philosophy, and crashing weddings.
-
+I like probabilistic machine learning, generative models, and understanding deep learning (via beter generalization, scaling, efficency, etc.). I like open source code.
 
 🎓 Columbia University, Applied Math
 
