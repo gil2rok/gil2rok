@@ -5,7 +5,12 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-I like probabilistic machine learning, generative models, and understanding deep learning (via beter generalization, scaling, efficency, etc.). I like open source code.
+I like:
+- probabilistic machine learning (variational inference, Markov chain Monte Carlo)
+- generative models (diffusion, normalizing flows)
+- better understanding deep learning (via generalization, scaling, efficency)
+
+I also like open source code, hacking on things, and adventure.
 
 🎓 Columbia University, Applied Math
 
