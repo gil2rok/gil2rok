@@ -1,6 +1,6 @@
 ### Hi there 👋. I'm Gilad Turok.
 
-I broadly like *probablistic machine learning* including:
+I like to think about *probablistic machine learning* research, including:
 - deep generative models (normalizing flows, diffusion)
 - computational statistics (variational inference, MCMC, sampling)
 - principled understanding of deep learning (inductive biases, scaling laws, generalization)
