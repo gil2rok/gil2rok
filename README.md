@@ -6,7 +6,7 @@
 - principled understanding of deep learning (inductive biases, scaling laws, generalization)
 - AI4Science (inverse problems)
 
-##### Currently on my mind:
+**Currently on my mind:**
 - Discrete flow matching 🌊
 - Running 100s of MCMC chains on GPUs ⛓️
 - How to get rid of LaTeX compilation warnings ⚠️
