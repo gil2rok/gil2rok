@@ -9,4 +9,5 @@ I like to think about *probablistic machine learning* research, including:
 Currently on my mind:
 - Discrete flow matching 🌊
 - Running 100s of MCMC chains on GPUs ⛓️
-- How to get rid of LaTeX compilation warnings
+- How to get rid of LaTeX compilation warnings ⚠️
+- JAX is cool 😎
