@@ -1,4 +1,4 @@
-### Hi there 👋. I'm Gilad Turok.
+## Hi there 👋. I'm Gilad Turok.
 
 #### I like to think about *probablistic machine learning* research, including:
 - deep generative models (normalizing flows, diffusion)
